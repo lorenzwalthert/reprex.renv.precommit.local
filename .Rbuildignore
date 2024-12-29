@@ -1,0 +1,5 @@
+^\.Rproj\.user$
+^\.pre-commit-config\.yaml$
+^renv$
+^renv\.lock$
+^reprex\.renv\.precommit\.local\.Rproj$
